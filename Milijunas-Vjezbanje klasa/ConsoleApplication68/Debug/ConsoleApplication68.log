@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  ConsoleApplication68.cpp
+C:\Users\brodo\Desktop\C++ vjezba\Milijunas\ConsoleApplication68\ConsoleApplication68.cpp(71,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\brodo\Desktop\C++ vjezba\Milijunas\ConsoleApplication68\ConsoleApplication68.cpp(225,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\brodo\Desktop\C++ vjezba\Milijunas\ConsoleApplication68\ConsoleApplication68.cpp(286,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\brodo\Desktop\C++ vjezba\Milijunas\ConsoleApplication68\ConsoleApplication68.cpp(296,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\brodo\Desktop\C++ vjezba\Milijunas\ConsoleApplication68\ConsoleApplication68.cpp(296,20): warning C4018: C:\Users\brodo\Desktop\C++ vjezba\Milijunas\ConsoleApplication68\ConsoleApplication68.cpp(125) : warning C4715: 'Pitanje::odgovaranje': not all control paths return a value
+  ConsoleApplication68.vcxproj -> C:\Users\brodo\Desktop\C++ vjezba\Milijunas\Debug\ConsoleApplication68.exe
